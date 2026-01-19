@@ -21,8 +21,8 @@ TopkDropout strategy (holding the top-N stocks based on the predicted scores).
 ## Results (Backtest 2017–2020)
 On the test set, the pipeline achieves the following metrics:
 
-#### Information Coefficient (IC): ~0.047 (Strong Signal)
-#### Excess Return (Alpha): ~175% (Strategy outperformed the benchmark by ~2.7x)
+#### Information Coefficient (IC): ~0.047
+#### Cumulative Return: ~2.7
 
 Screenshots of Cumulative Return and IC Analysis charts are provided below.
 

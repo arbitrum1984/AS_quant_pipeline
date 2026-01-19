@@ -26,10 +26,9 @@ On the test set, the pipeline achieves the following metrics:
 
 Screenshots of Cumulative Return and IC Analysis charts are provided below.
 
-![IC Report](https://www.github.com/arbitrum1984/AS_quant_pipeline/screenshots/ic_report.png)
+![IC Report](https://github.com/arbitrum1984/AS_quant_pipeline/blob/main/screenshots/ic_report.png)
 
-![Strategy Performance](https://www.github.com/arbitrum1984/AS_quant_pipeline/screenshots/strategy_performance.png)
-
+![Strategy Performance](https://github.com/arbitrum1984/AS_quant_pipeline/blob/main/screenshots/strategy_performance.png)
 ##  How to Run
 
 To run the pipeline, simply install the dependencies. Python 3.8+ is recommended.
